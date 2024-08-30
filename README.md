@@ -1,4 +1,4 @@
-![Screenshot 2024-08-30 220157](https://github.com/user-attachments/assets/cc2d047d-4905-4ca4-b7c8-8199ec796fe2)# Snap Website
+# Snap Website
 
 ## Introduction
 
