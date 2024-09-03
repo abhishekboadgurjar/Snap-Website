@@ -20,8 +20,6 @@ The **Snap Website** is a single-page website designed to showcase a product or 
 - **CSS**: Styles the website to ensure it is visually appealing and user-friendly.
 - **JavaScript**: Adds interactivity to the website, such as dropdown menus and hover effects.
 
-
-
 ## Installation
 
 To get started with the project, follow these steps:
