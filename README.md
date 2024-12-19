@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/Snap-Website.git
+    git clone https://github.com/abhishekboadgurjar/Snap-Website.git
     ```
 
 2. **Open the project directory**:
@@ -47,7 +47,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Snap Website project [here](https://abhishekgurjar-in.github.io/Snap-Website/).
+You can check out the live demo of the Snap Website project [here](https://abhishekboadgurjar.github.io/Snap-Website/).
 ## Screenshots
 
 ![Screenshot 2024-08-30 220157](https://github.com/user-attachments/assets/4a761b81-e7b8-4c3e-8db1-042c1164629b)
@@ -63,4 +63,4 @@ This project was developed as part of my continuous learning journey in web deve
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
